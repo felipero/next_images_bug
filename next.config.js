@@ -1,3 +1,3 @@
-const withImages = require('next-images');
+const withOptimizedImages = require('next-images');
 
-module.exports = withImages()
+module.exports = withOptimizedImages()
